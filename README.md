@@ -24,4 +24,4 @@ ___
 
 **Note:** I used dotenv in this project to avoid including the confidential information in the configuration file.
 
-- f5b6cc23bf5d4c6699a8f9e60fa06936
+- https://rinkeby.etherscan.io/address/0xaa8b46cccc09e56ca0b21fc9683df6f29e25ecfa
